@@ -1,1 +1,1 @@
-## Model Context Protocol Based Multi Agent Travel Panner
+## Model Context Protocol Based Multi Agent Travel Planner
