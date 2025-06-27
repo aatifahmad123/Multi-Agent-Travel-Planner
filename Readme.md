@@ -1,1 +1,1 @@
-## Model Context Protocol Based Multi Agent Travel Planner
+## Model Context Protocol(MCP) Based Multi Agent Travel Planner
